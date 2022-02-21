@@ -1,0 +1,14 @@
+.character-content {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 16px;
+  margin: 8px;
+  width: 320px;
+  height: 192px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  text-align: center;
+}
